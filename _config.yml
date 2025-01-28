@@ -27,7 +27,6 @@ baseurl: "/educational-foundations" # the subpath of your site, e.g. /blog
 url: "https;//mimneko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
@@ -50,3 +49,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+permalink: /:path/

@@ -1,2 +1,3 @@
-# education-laws
-教育法規
+# educational-foundations
+
+教職教養まとめ
